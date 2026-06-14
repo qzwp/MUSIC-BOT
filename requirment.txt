@@ -1,0 +1,17 @@
+pkg install php
+pkg install zip
+pkg install iproute2
+
+pkg update && pkg upgrade
+pkg install python
+pip install pyTelegramBotAPI
+
+pkg install python-pip
+
+pip install telebot
+
+cd /sdcard/download
+
+cd telegram
+
+python3 bot.py
