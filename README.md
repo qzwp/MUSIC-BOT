@@ -1,8 +1,6 @@
 # 🎵 Melody Stream Bot
 
 A Telegram music bot powered by the JioSaavn API. Search and download high-quality MP3s directly in Telegram.
-
-**Developer:** [@Lawliet7x](https://t.me/Lawliet7x)  
 **Channel:** [@public_120](https://t.me/public_120)
 
 ---
@@ -86,7 +84,6 @@ Temporary MP3 files are created during download and deleted automatically after 
 
 - **Library:** pyTelegramBotAPI (`telebot`)
 - **Mode:** Long polling (no webhook needed)
-- **API:** JioSaavn via `https://jiosavanapiryden.vercel.app/api`
 - **Audio quality:** Up to 320kbps MP3
 - **Storage:** JSON file (no database required)
 - **State tracking:** In-memory dict for multi-step search flow
