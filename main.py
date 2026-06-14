@@ -16,7 +16,7 @@ import hashlib
 import re
 
 # Bot ConDRIFTfiguration
-BOT_TOKEN = "YOUR_BOT_TOKEN_HERE_NGA"
+BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"
 ADMIN_ID = YOUR_ID
 API_BASE_URL = "https://jiosavanapiryden.vercel.app/api"
 SUPPORT_LINK = "https://t.me/Lawliet7x"
